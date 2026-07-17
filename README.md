@@ -1,13 +1,25 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Brian%20Nguyen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-stack%20Developer&descSize=18&descAlignY=55" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Brian%20Nguyen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%3E%20Hey%20there!%20Welcome%20to%20my%20profile&descSize=18&descAlignY=55" alt="banner" />
 </p>
+
+<p align="center">
+  <img width="100%" src="assets/divider_cyber_cycle.svg" alt="Animated cyber divider" />
+</p>
+
+<div align="center">
+  <h3>「 Software Engineer building reliable full-stack products 」</h3>
+</div>
 
 <!-- Typing effect -->
 <p align="center">
   <a href="https://github.com/thanhITSW">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=750&height=45&lines=Hi+there%2C+I'm+Brian+Nguyen+%F0%9F%91%8B;Software+Engineer+%40+Ho+Chi+Minh+City+%F0%9F%87%BB%F0%9F%87%B3;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js+%7C+Python;Open+to+cool+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=750&height=45&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Node.js+%7C+Python;Building+full-stack+products+end-to-end+%F0%9F%9A%80;Open+to+cool+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="assets/banner_animation.gif" width="450" alt="Coding animation" />
 </p>
 
 <!-- Badges -->
@@ -18,20 +30,6 @@
   </a>
   <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
-
-<p align="center">
-  <img width="100%" src="assets/divider_cyber_cycle.svg" alt="Animated cyber divider" />
-</p>
-
-<div align="center">
-  <h1><code>&gt; Hey there! I'm Brian</code></h1>
-  <h3>「 Software Engineer building reliable full-stack products 」</h3>
-  <p><strong>Java · Spring Boot · React · React Native · Node.js · Python</strong></p>
-  <p>
-    Open to exciting projects, collaborations, and tech discussions.<br />
-    If you are building something interesting, let's connect and make it happen together!
-  </p>
-</div>
 
 <p align="center">
   <img width="100%" src="assets/divider_cyber_cycle_mirrored.svg" alt="Animated mirrored cyber divider" />
