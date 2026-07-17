@@ -6,7 +6,7 @@
 <!-- Typing effect -->
 <p align="center">
   <a href="https://github.com/thanhITSW">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Brian+(Th%C3%A0nh)+%F0%9F%91%8B;Software+Engineer+%40+Ho+Chi+Minh+City+%F0%9F%87%BB%F0%9F%87%B3;Building+with+Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;Open+to+cool+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=750&height=45&lines=Hi+there%2C+I'm+Brian+(Th%C3%A0nh)+%F0%9F%91%8B;Software+Engineer+%40+Ho+Chi+Minh+City+%F0%9F%87%BB%F0%9F%87%B3;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js+%7C+Python;Open+to+cool+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
 </p>
 
