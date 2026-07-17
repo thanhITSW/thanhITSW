@@ -28,6 +28,7 @@ const brian = {
   name: "Nguyễn Mai Tấn Thành (Brian)",
   location: "Ho Chi Minh City, Vietnam 🇻🇳",
   role: "Software Engineer",
+  skills: ["Java", "Spring Boot", "ReactJS", "React Native", "Node.js", "Python"],
   interests: ["Researching new frameworks", "Software Architecture"],
   currentlyLearning: "Software Engineering",
   collaboration: "Software development projects & research initiatives",
@@ -47,13 +48,20 @@ const brian = {
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,dart,php,ruby,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css&theme=dark" alt="Languages" />
 </p>
 
 ### Frameworks & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,flutter,rails,bootstrap,tailwind&theme=dark" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,redux,bootstrap,tailwind&theme=dark" alt="Frameworks" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
 ### Databases & Tools
