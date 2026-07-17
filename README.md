@@ -21,29 +21,32 @@
 
 ---
 
-## 🧑‍💻 About Me
+# Hey 👋, I'm Brian (Nguyễn Mai Tấn Thành)
 
-```typescript
-const brian = {
-  name: "Nguyễn Mai Tấn Thành (Brian)",
-  pronouns: "he/him",
-  location: "Ho Chi Minh City, Vietnam 🇻🇳",
-  role: "Software Engineer",
-  status: "Graduated & currently building products 🚀",
-  stack: ["Java", "Spring Boot", "ReactJS", "React Native", "Node.js", "Python"],
-  focus: ["Full-stack development", "Clean architecture", "Mobile apps"],
-  openTo: ["Collaboration", "Side projects", "Tech discussions"],
-  funFact: "Joyful, sociable, and always curious about how things work 😄",
-};
-```
+### Software Engineer | Java / Spring Boot / React / Node.js | Full-stack Builder
 
-Hey there! I'm **Brian**, a Software Engineer based in **Ho Chi Minh City**.  
-I recently graduated and I'm now building real-world products with **Java / Spring Boot** on the backend and **React / React Native / Node.js** on the frontend.
+Open to exciting projects, collaborations, and tech discussions. If you are building something interesting, let's connect and make it happen together!
 
-- 💼 Working as a **Software Engineer**
-- 🧠 Passionate about **full-stack development** & **software architecture**
-- 🤝 Open to collaborate on **interesting projects**
-- 📫 Reach me at **nguyenmtthanh13@gmail.com**
+---
+
+## ✨ About Me
+
+I'm a Software Engineer based in **Ho Chi Minh City, Vietnam** 🇻🇳. I graduated in Software Engineering and now spend my days building real-world products end-to-end — from designing backend services to shipping polished user interfaces. What drives me is curiosity: I love picking up new frameworks, taking them apart, and putting them to work in real projects.
+
+### Core Strengths:
+
+* **Full-stack Versatility:** I move comfortably between **Java / Spring Boot** backends and **React / React Native** frontends, owning features from database to UI.
+* **Fast Learner:** I pick up new frameworks and tools quickly — exploring new tech is not just work for me, it's a hobby.
+* **Team Player:** Joyful and sociable by nature, I thrive in collaborative environments and enjoy turning ideas into working software with others.
+
+### Key Highlights:
+
+* Working professionally as a **Software Engineer**, building products with **Java, Spring Boot, ReactJS, React Native, Node.js, and Python**.
+* Built full-stack projects end-to-end: appointment scheduling systems, microservice-based library management, movie ticket booking, real-time chat, and point-of-sale apps.
+* Hands-on experience with **microservice architecture**, REST APIs, and modern frontend development.
+* Always experimenting with side projects to sharpen my skills and explore new ideas.
+
+📫 **Reach me at:** [nguyenmtthanh13@gmail.com](mailto:nguyenmtthanh13@gmail.com)
 
 ---
 
@@ -105,6 +108,10 @@ I recently graduated and I'm now building real-world products with **Java / Spri
   <a href="https://github.com/thanhITSW">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+<p align="center">
+  <strong>“Code with joy, learn without limits.”</strong> <em>— Brian</em>
 </p>
 
 <!-- Footer -->
