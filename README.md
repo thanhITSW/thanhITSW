@@ -19,15 +19,23 @@
   <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
----
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" alt="Animated cyber divider" />
+</p>
 
-# Hey 👋, I'm Brian (Nguyễn Mai Tấn Thành)
+<div align="center">
+  <h1><code>&gt; Hey there! I'm Brian</code></h1>
+  <h3>「 Software Engineer building reliable full-stack products 」</h3>
+  <p><strong>Java · Spring Boot · React · React Native · Node.js · Python</strong></p>
+  <p>
+    Open to exciting projects, collaborations, and tech discussions.<br />
+    If you are building something interesting, let's connect and make it happen together!
+  </p>
+</div>
 
-### Software Engineer | Java / Spring Boot / React / Node.js | Full-stack Builder
-
-Open to exciting projects, collaborations, and tech discussions. If you are building something interesting, let's connect and make it happen together!
-
----
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg" alt="Animated mirrored cyber divider" />
+</p>
 
 ## ✨ About Me
 
@@ -48,9 +56,11 @@ I'm a Software Engineer based in **Ho Chi Minh City, Vietnam** 🇻🇳. I gradu
 
 📫 **Reach me at:** [nguyenmtthanh13@gmail.com](mailto:nguyenmtthanh13@gmail.com)
 
----
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg" alt="Animated data capsule divider" />
+</p>
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
 ### Languages
 
@@ -71,13 +81,15 @@ I'm a Software Engineer based in **Ho Chi Minh City, Vietnam** 🇻🇳. I gradu
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
-### Databases & Tools
+### Databases, DevOps & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git,github,postman,vscode,figma&theme=dark" alt="Tools" />
 </p>
 
----
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" alt="Animated circuit pulse divider" />
+</p>
 
 ## 📊 GitHub Activity
 
@@ -85,7 +97,9 @@ I'm a Software Engineer based in **Ho Chi Minh City, Vietnam** 🇻🇳. I gradu
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhITSW&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" alt="Activity Graph" />
 </p>
 
----
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" alt="Animated dual energy divider" />
+</p>
 
 ## 🐍 Contribution Snake
 
@@ -97,7 +111,9 @@ I'm a Software Engineer based in **Ho Chi Minh City, Vietnam** 🇻🇳. I gradu
   </picture>
 </p>
 
----
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" alt="Animated dual energy divider" />
+</p>
 
 ## 🤝 Connect With Me
 
