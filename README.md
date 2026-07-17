@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" alt="Animated cyber divider" />
+  <img width="100%" src="assets/divider_cyber_cycle.svg" alt="Animated cyber divider" />
 </p>
 
 <div align="center">
@@ -34,7 +34,7 @@
 </div>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg" alt="Animated mirrored cyber divider" />
+  <img width="100%" src="assets/divider_cyber_cycle_mirrored.svg" alt="Animated mirrored cyber divider" />
 </p>
 
 ## ✨ About Me
