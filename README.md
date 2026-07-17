@@ -1,12 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Nguy%E1%BB%85n%20Mai%20T%E1%BA%A5n%20Th%C3%A0nh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-stack%20Developer&descSize=18&descAlignY=55" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Brian%20Nguyen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-stack%20Developer&descSize=18&descAlignY=55" alt="banner" />
 </p>
 
 <!-- Typing effect -->
 <p align="center">
   <a href="https://github.com/thanhITSW">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=750&height=45&lines=Hi+there%2C+I'm+Brian+(Th%C3%A0nh)+%F0%9F%91%8B;Software+Engineer+%40+Ho+Chi+Minh+City+%F0%9F%87%BB%F0%9F%87%B3;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js+%7C+Python;Open+to+cool+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=750&height=45&lines=Hi+there%2C+I'm+Brian+Nguyen+%F0%9F%91%8B;Software+Engineer+%40+Ho+Chi+Minh+City+%F0%9F%87%BB%F0%9F%87%B3;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js+%7C+Python;Open+to+cool+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
 </p>
 
