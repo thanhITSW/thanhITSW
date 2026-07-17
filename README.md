@@ -30,14 +30,16 @@ const brian = {
   role: "Software Engineer",
   skills: ["Java", "Spring Boot", "ReactJS", "React Native", "Node.js", "Python"],
   interests: ["Researching new frameworks", "Software Architecture"],
-  currentlyLearning: "Software Engineering",
+  education: "Graduated in Software Engineering 🎓",
+  currentlyWorkingAs: "Software Engineer 💼",
   collaboration: "Software development projects & research initiatives",
   funFact: "I am a joyful and sociable person 😄",
 };
 ```
 
+- 🎓 I graduated in **Software Engineering**
+- 💼 I’m currently working as a **Software Engineer**
 - 👀 I’m interested in **researching new frameworks**
-- 🌱 I’m currently learning **Software Engineering**
 - 💞️ I’m looking to collaborate on **software development projects and research initiatives**
 - 📫 How to reach me: **nguyenmtthanh13@gmail.com**
 
