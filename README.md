@@ -6,7 +6,7 @@
 <!-- Typing effect -->
 <p align="center">
   <a href="https://github.com/thanhITSW">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Brian+(Th%C3%A0nh)+%F0%9F%91%8B;Full-stack+Developer+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Always+learning+new+frameworks+%F0%9F%9A%80;Open+to+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Brian+(Th%C3%A0nh)+%F0%9F%91%8B;Software+Engineer+%40+Ho+Chi+Minh+City+%F0%9F%87%BB%F0%9F%87%B3;Building+with+Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;Open+to+cool+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,22 +26,24 @@
 ```typescript
 const brian = {
   name: "Nguyễn Mai Tấn Thành (Brian)",
+  pronouns: "he/him",
   location: "Ho Chi Minh City, Vietnam 🇻🇳",
   role: "Software Engineer",
-  skills: ["Java", "Spring Boot", "ReactJS", "React Native", "Node.js", "Python"],
-  interests: ["Researching new frameworks", "Software Architecture"],
-  education: "Graduated in Software Engineering 🎓",
-  currentlyWorkingAs: "Software Engineer 💼",
-  collaboration: "Software development projects & research initiatives",
-  funFact: "I am a joyful and sociable person 😄",
+  status: "Graduated & currently building products 🚀",
+  stack: ["Java", "Spring Boot", "ReactJS", "React Native", "Node.js", "Python"],
+  focus: ["Full-stack development", "Clean architecture", "Mobile apps"],
+  openTo: ["Collaboration", "Side projects", "Tech discussions"],
+  funFact: "Joyful, sociable, and always curious about how things work 😄",
 };
 ```
 
-- 🎓 I graduated in **Software Engineering**
-- 💼 I’m currently working as a **Software Engineer**
-- 👀 I’m interested in **researching new frameworks**
-- 💞️ I’m looking to collaborate on **software development projects and research initiatives**
-- 📫 How to reach me: **nguyenmtthanh13@gmail.com**
+Hey there! I'm **Brian**, a Software Engineer based in **Ho Chi Minh City**.  
+I recently graduated and I'm now building real-world products with **Java / Spring Boot** on the backend and **React / React Native / Node.js** on the frontend.
+
+- 💼 Working as a **Software Engineer**
+- 🧠 Passionate about **full-stack development** & **software architecture**
+- 🤝 Open to collaborate on **interesting projects**
+- 📫 Reach me at **nguyenmtthanh13@gmail.com**
 
 ---
 
