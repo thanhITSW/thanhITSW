@@ -56,11 +56,9 @@ I'm a Software Engineer based in **Ho Chi Minh City, Vietnam** 🇻🇳. I gradu
 
 📫 **Reach me at:** [nguyenmtthanh13@gmail.com](mailto:nguyenmtthanh13@gmail.com)
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg" alt="Animated data capsule divider" />
-</p>
+---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -81,15 +79,13 @@ I'm a Software Engineer based in **Ho Chi Minh City, Vietnam** 🇻🇳. I gradu
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
-### Databases, DevOps & Tools
+### Databases & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git,github,postman,vscode,figma&theme=dark" alt="Tools" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" alt="Animated circuit pulse divider" />
-</p>
+---
 
 ## 📊 GitHub Activity
 
@@ -97,9 +93,7 @@ I'm a Software Engineer based in **Ho Chi Minh City, Vietnam** 🇻🇳. I gradu
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhITSW&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" alt="Activity Graph" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" alt="Animated dual energy divider" />
-</p>
+---
 
 ## 🐍 Contribution Snake
 
@@ -111,9 +105,7 @@ I'm a Software Engineer based in **Ho Chi Minh City, Vietnam** 🇻🇳. I gradu
   </picture>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" alt="Animated dual energy divider" />
-</p>
+---
 
 ## 🤝 Connect With Me
 
